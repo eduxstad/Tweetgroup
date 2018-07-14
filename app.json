@@ -1,0 +1,6 @@
+{
+  "name": "Tweetgroup",
+  "description": "A Twitter to GroupMe app",
+  "repository": "https://github.com/eduxstad/Tweetgroup",
+  "keywords": ["node", "Twitter", "GroupMe"]
+}
