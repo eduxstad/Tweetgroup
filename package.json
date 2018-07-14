@@ -1,8 +1,8 @@
 {
-  "name": "facegroup",
+  "name": "Tweetgroup",
   "version": "1.0.0",
-  "description": "Facebook -> GroupMe ",
-  "main": "facegroup.js",
+  "description": "Tweetbook -> GroupMe ",
+  "main": "tweetgroup.js",
   "dependencies": {
     "body-parser": "^1.17.2",
     "express": "^4.15.3",
